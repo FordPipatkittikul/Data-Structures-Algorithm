@@ -1,0 +1,11 @@
+
+Pro:
+1) Fast to lookup(access)
+2) ordered element
+3) Fast to push/pop
+
+Cons:
+1) Slow inserts
+2) Slow deletes
+3) Slow to searching
+4) Fixed size if using static array

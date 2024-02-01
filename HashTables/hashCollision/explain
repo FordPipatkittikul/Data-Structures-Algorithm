@@ -1,0 +1,3 @@
+https://www.cs.usfca.edu/~galles/visualization/OpenHash.html
+
+According to the pic. If we want to access one's information. It's not  going to be O(1) anymore because in one, there are 5 elements.

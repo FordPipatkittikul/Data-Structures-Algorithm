@@ -1,0 +1,69 @@
+// What Causes Space Complexity?
+// • Variables
+// • Data Structures
+// • Function Call
+// • Allocations
+
+
+
+// exercise 1
+
+// let a = 0, b = 0;
+// for (let i = 0; i < n; ++i) {
+//     a = a + i;
+// }
+// for (let j = 0; j < m; ++j) {
+//     b = b + j;
+// }
+
+//time : O(n+m)
+//space : O(1)
+
+
+// exercise 2
+
+// let a = 0, b = 0;
+// for (let i = 0; i < n; ++i) {
+//     for (let j = 0; j < n; ++j) {
+//         a = a + j;
+//     }
+// }
+// for (let k = 0; k < n; ++k) {
+//     b = b + k;
+// }
+
+//time : O(n^2)
+//space : O(1)
+
+
+// exercise 3
+
+// let a = 0;
+// for (let i = 0; i < n; ++i) {
+//     for (let j = n; j > i; --j) {
+//         a = a + i + j;
+//     }
+// }
+
+//time : O(n^2)
+//space : O(1)
+
+// exercise 4
+
+// const arr = [];
+// for (let i = 0; i < n; ++i) {
+//     for (let j = 0; j < n; ++j) {
+//         arr.push(i + j);
+//     }
+// }
+
+//time : O(n^2)
+//space : O(n ^ 2)
+
+// const arr = [];
+// for (let i = 1; i < n; i *= 2) {
+//     arr.push(i);
+// }
+
+//time : O(log n)
+//space : O(log n)
