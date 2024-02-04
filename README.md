@@ -47,9 +47,11 @@
         
   # singly linked list
     a linear data structure comprising of nodes chained together in a single direction. Each node contains a data member holding useful information, and a pointer to the next node. Can traverse forward
+![LLdrawio](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/c0f2bf7c-4bd4-4878-b4f3-e765db6f4663)
+
   # Doubly linked list
     A doubly linked list contains a pointer to the next node as well as the previous node. This ensures that the list can be traversed in both directions.
-
+![DLL1](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/c97331b9-276d-4993-8b41-6119e6a8e53e)
 # Stacks
   Stack is a linear data structure in which the element inserted last is the element to be deleted first.
 
