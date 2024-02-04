@@ -1,6 +1,6 @@
 # DataStructures(python)
 
-## Built - in DataStructures
+# Built - in DataStructures
 ## Array
   It is a collections of data type stored contiguous memory locations(ordered collections of values)
 
@@ -19,12 +19,20 @@
       - Deletion: O(1)
 
 ## tuple
- It is ordered collection of data type and being used for immutable things (that don't change).
+   It is ordered collection of data type and being used for immutable things (that don't change).
      
      operation run time complexity
      - access by index O(1)
-## 
-## self - defined
+## sets
+  It is unorederd collection of unique elements.
+    
+    operation run time complexity
+     - Insertion: O(1)
+     - Deletion: O(1)
+
+
+# self - defined
+
 ## Linked Lists
   A linked list is a common data structure made of one or more than one node. Each node contains a value and a pointer to the previous/next node forming the chain-like structure
 
