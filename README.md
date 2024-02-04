@@ -1,6 +1,7 @@
 # DataStructures(python)
 
-# Built - in DataStructures
+# Built-in DataStructures
+
 ## Array
   It is a collections of data type stored contiguous memory locations(ordered collections of values)
 
@@ -23,6 +24,7 @@
      
      operation run time complexity
      - access by index O(1)
+
 ## sets
   It is unorederd collection of unique elements.
     
@@ -31,7 +33,7 @@
      - Deletion: O(1)
 
 
-# self - defined
+# self-defined DataStructures
 
 ## Linked Lists
   A linked list is a common data structure made of one or more than one node. Each node contains a value and a pointer to the previous/next node forming the chain-like structure
@@ -54,6 +56,14 @@
       operation run time complexity
       - push O(1)
       - pop O(1)
+
+# queue
+
+# Tree
+
+# Graph
+
+
 
 
         
