@@ -15,6 +15,8 @@
       Note: Iterating through half a collection is still O(n)
             Two separate collections: O(a * b)
 
+## Run time complexity
+
 # Built-in DataStructures
 
 ## Array
