@@ -17,12 +17,18 @@
 
 ## Space complexity
 
+Causes Space Complexity?
+      • Variables
+      • Data Structures
+      • Function Call
+      • Allocations
+
 # Built-in DataStructures
 
 ## Array
   It is a collections of data type stored contiguous memory locations(ordered collections of values)
 
-      operation run time complexity
+    operation run time complexity
       - Insertion : O(n)
       - Deletion : O(n)
       - accessing by index: O(1)
@@ -31,7 +37,7 @@
 ## Hash Table or dictionary
   It is unordered data structure that stores pairs of key-value
 
-      operation run time complexity
+    operation run time complexity
       - accessing by key : O(1)
       - Insertion: O(1)
       - Deletion: O(1)
@@ -39,7 +45,7 @@
 ## tuple
    It is ordered collection of data type and being used for immutable things (that don't change).
      
-     operation run time complexity
+    operation run time complexity
      - access by index O(1)
 
 ## sets
@@ -55,7 +61,7 @@
 ## Linked Lists
   A linked list is a common data structure made of one or more than one node. Each node contains a value and a pointer to the previous/next node forming the chain-like structure
 
-        operation run time complexity
+      operation run time complexity
         - prepend O(1)
         - append O(1)
         - lookup O(n)
@@ -73,7 +79,7 @@
 # Stacks
   Stack is a linear data structure in which the element inserted last is the element to be deleted first.
 
-      operation run time complexity
+    operation run time complexity
       - push O(1)
       - pop O(1)
   
@@ -83,7 +89,7 @@
 # queue
   similar to a stack. A queue uses the FIFO method(First In First Out), by which the first element that is enqueued will be the first one to be dequeued.
       
-      operation run time complexity
+    operation run time complexity
       - enqueue Inserts an element to the end of the queue O(1)
       - dequeue Removes an element from the start of the queue O(1)
       - isempty Returns true if the queue is empty. O(1)
