@@ -1,5 +1,4 @@
 # DataStructures(python)
-
 ## Run time complexity
   
       - O(1) Constant – no loops
@@ -13,7 +12,6 @@
       
       ** Note: Iterating through half a collection is still O(n)
             Two separate collections: O(a * b)
-
 ## Space complexity
 
     What causes Space Complexity
