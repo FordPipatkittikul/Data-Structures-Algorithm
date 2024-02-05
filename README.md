@@ -17,7 +17,7 @@
 
 ## Space complexity
 
-Causes Space Complexity?
+    What causes Space Complexity
       • Variables
       • Data Structures
       • Function Call
