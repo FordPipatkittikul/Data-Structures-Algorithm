@@ -1,4 +1,4 @@
-# DataStructures(python)
+# DataStructures
 ## Run time complexity
   
       - O(1) Constant – no loops
@@ -30,6 +30,7 @@
 ![Screenshot (44)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/3f47a8e9-65bf-4d1d-9ed7-9ed6ee667090)
 
 # Built-in DataStructures
+Quick Note using Python programming language as a reference.
 ## Array
   It is a collections of data type stored contiguous memory locations(ordered collections of values)
 
