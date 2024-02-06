@@ -22,8 +22,11 @@
       • Allocations
 
 ![Screenshot (46)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/792770f3-572f-4683-b056-8331ea22f59b)
+
 ![Screenshot (47)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/1552f166-7265-4e17-b74d-4edd7f62b59c)
+
 ![Screenshot (45)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/f1fad31b-62da-41c2-8fcd-c684f5558578)
+
 ![Screenshot (44)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/3f47a8e9-65bf-4d1d-9ed7-9ed6ee667090)
 
 # Built-in DataStructures
