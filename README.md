@@ -62,11 +62,11 @@ Quick Note using Python programming language as a reference.
   A linked list is a common data structure made of one or more than one node. Each node contains a value and a pointer to the previous/next node forming the chain-like structure
 
       operation run time complexity
-        - prepend O(1)
-        - append O(1)
-        - lookup O(n)
-        - insert O(n)
-        - delete O(n)
+        - prepend: O(1)
+        - append: O(1)
+        - lookup: O(n)
+        - insert: O(n)
+        - delete: O(n)
   # singly linked list
     a linear data structure comprising of nodes chained together in a single direction. Each node contains a data member holding useful information, and a pointer to the next node. Can traverse forward
 ![LLdrawio](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/c0f2bf7c-4bd4-4878-b4f3-e765db6f4663)
@@ -77,18 +77,18 @@ Quick Note using Python programming language as a reference.
   Stack is a linear data structure in which the element inserted last is the element to be deleted first. LIFO method(Last In First Out)
 
     operation run time complexity
-      - push O(1)
-      - pop O(1)
+      - push: O(1)
+      - pop: O(1)
   
 ![stack](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/ad9f7fd7-20cd-4683-8419-e3e8db5b82c9)
 # queue
   similar to a stack. A queue uses the FIFO method(First In First Out), by which the first element that is enqueued will be the first one to be dequeued.
       
     operation run time complexity
-      - enqueue Inserts an element to the end of the queue O(1)
-      - dequeue Removes an element from the start of the queue O(1)
-      - isempty Returns true if the queue is empty. O(1)
-      - peek Returns the first element of the queue O(1)
+      - enqueue Inserts an element to the end of the queue: O(1)
+      - dequeue Removes an element from the start of the queue: O(1)
+      - isempty Returns true if the queue is empty: O(1)
+      - peek Returns the first element of the queue: O(1)
 
 ![queue](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/d784d191-5ac8-4a45-93a6-34d86ab1feb8)
 
