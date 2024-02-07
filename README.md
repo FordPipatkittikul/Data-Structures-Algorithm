@@ -24,8 +24,11 @@
     What causes Space Complexity
     
       • Variables
+      
       • Data Structures
+      
       • Function Call
+      
       • Allocations
 
 ![Screenshot (46)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/792770f3-572f-4683-b056-8331ea22f59b)
@@ -43,8 +46,11 @@ Quick Note using Python programming language as a reference.
 
     operation run time complexity
       - Insertion : O(n)
+      
       - Deletion : O(n)
+      
       - accessing by index: O(1)
+      
       - Append : O(1)
 ## Hash Table or dictionary
 
