@@ -45,6 +45,7 @@ Quick Note using Python programming language as a reference.
   It is a collections of data type stored contiguous memory locations(ordered collections of values)
 
     operation run time complexity
+    
       - Insertion : O(n)
       
       - Deletion : O(n)
@@ -56,8 +57,11 @@ Quick Note using Python programming language as a reference.
 
   It is unordered data structure that stores pairs of key-value
     operation run time complexity
+    
       - accessing by key : O(1)
+      
       - Insertion: O(1)
+      
       - Deletion: O(1)
 ## tuple
    It is ordered collection of data type and being used for immutable things (that don't change).
@@ -68,6 +72,7 @@ Quick Note using Python programming language as a reference.
   It is unorederd collection of unique elements.
     
     operation run time complexity
+    
      - Insertion: O(1)
      - Deletion: O(1)
 # self-defined DataStructures
