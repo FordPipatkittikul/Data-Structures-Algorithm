@@ -124,9 +124,6 @@ Quick Note using Python programming language as a reference.
 
 # Tree
 
-
-
-
 # Graph
 
 
