@@ -1,4 +1,4 @@
-# DataStructures&Algorithm
+# Data Structures & Algorithm
 
 ## Run time complexity
   
