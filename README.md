@@ -1,5 +1,4 @@
 # Data Structures & Algorithm
-
 ## Run time complexity
   
       - O(1) Constant – no loops
@@ -38,7 +37,6 @@
 ![Screenshot (45)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/f1fad31b-62da-41c2-8fcd-c684f5558578)
 
 ![Screenshot (44)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/3f47a8e9-65bf-4d1d-9ed7-9ed6ee667090)
-
 # Built-in DataStructures
 Quick Note using Python programming language as a reference.
 ## Array
