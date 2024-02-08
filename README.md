@@ -101,6 +101,7 @@ Quick Note using Python programming language as a reference.
   Stack is a linear data structure in which the element inserted last is the element to be deleted first. LIFO method(Last In First Out)
 
     operation run time complexity
+    
       - push: O(1)
       
       - pop: O(1)
