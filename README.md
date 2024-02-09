@@ -9,8 +9,7 @@
       
       - O(n log(n)) Log Linear – usually sorting operations
       
-      - O(n^2) Quadratic – every element in a collection needs to be compared to ever other element. Two
-                           nested loops
+      - O(n^2) Quadratic – every element in a collection needs to be compared to ever other element. Two nested loops
                            
       - O(2^n) Exponential – recursive algorithms that solves a problem of size N
       
