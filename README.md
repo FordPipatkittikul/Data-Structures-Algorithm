@@ -1,5 +1,5 @@
 # Data Structures & Algorithm
-## Run time complexity
+## Run time complexity(Big O)
   
       - O(1) Constant – no loops
       
@@ -18,7 +18,7 @@
       ** Note: Iterating through half a collection is still O(n)
       
                Two separate collections: O(a * b)
-## Space complexity
+## Space complexity(Big O)
 
     What causes Space Complexity
     
