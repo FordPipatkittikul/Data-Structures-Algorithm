@@ -19,7 +19,6 @@
 - Two separate collections: O(a * b)
 ## Space complexity(Big O)
     What causes Space Complexity
-    
       • Variables
       
       • Data Structures
