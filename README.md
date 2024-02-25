@@ -27,7 +27,6 @@
       • Function Call
       
       • Allocations
-
 ![Screenshot (46)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/792770f3-572f-4683-b056-8331ea22f59b)
 
 ![Screenshot (47)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/1552f166-7265-4e17-b74d-4edd7f62b59c)
