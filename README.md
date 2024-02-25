@@ -39,7 +39,6 @@
 Quick Note using Python programming language as a reference.
 ## Array
   It is a collections of data type stored contiguous memory locations(ordered collections of values)
-
     operation run time complexity
     
       - Insertion : O(n)
