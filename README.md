@@ -1,6 +1,5 @@
 # Data Structures & Algorithm
 ## Run time complexity(Big O)
-  
 - O(1) Constant – no loops
 
 - O(log N) Logarithmic – usually searching algorithms have log n if they are sorted (Binary Search)
