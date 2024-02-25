@@ -103,7 +103,6 @@ Quick Note using Python programming language as a reference.
 ![stack](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/ad9f7fd7-20cd-4683-8419-e3e8db5b82c9)
 # queue
   similar to a stack. A queue uses the FIFO method(First In First Out), by which the first element that is enqueued will be the first one to be dequeued.
-      
     operation run time complexity
     
       - enqueue Inserts an element to the end of the queue: O(1)
