@@ -49,7 +49,6 @@ Quick Note using Python programming language as a reference.
       - Append : O(1)
 ## Hash Table or dictionary
   It is unordered data structure that stores pairs of key-value
-  
     operation run time complexity
     
       - accessing by key : O(1)
