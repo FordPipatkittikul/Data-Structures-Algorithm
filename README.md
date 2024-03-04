@@ -85,7 +85,6 @@ Quick Note using Python programming language as a reference.
     operation run time complexity
     
       - push: O(1)
-      
       - pop: O(1)
   
 ![stack](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/ad9f7fd7-20cd-4683-8419-e3e8db5b82c9)
@@ -94,11 +93,8 @@ Quick Note using Python programming language as a reference.
     operation run time complexity
     
       - enqueue Inserts an element to the end of the queue: O(1)
-      
       - dequeue Removes an element from the start of the queue: O(1)
-      
       - isempty Returns true if the queue is empty: O(1)
-      
       - peek Returns the first element of the queue: O(1)
 
 ![queue](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/d784d191-5ac8-4a45-93a6-34d86ab1feb8)
