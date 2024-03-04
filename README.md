@@ -46,9 +46,7 @@ Quick Note using Python programming language as a reference.
     operation run time complexity
     
       - accessing by key : O(1)
-      
       - Insertion: O(1)
-      
       - Deletion: O(1)
 ## tuple
    It is ordered collection of data type and being used for immutable things (that don't change).
