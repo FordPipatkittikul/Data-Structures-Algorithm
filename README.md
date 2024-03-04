@@ -92,7 +92,7 @@ Quick Note using Python programming language as a reference.
 ### Doubly linked list
     A doubly linked list contains a pointer to the next node as well as the previous node. This ensures that the list can be traversed in both directions(forward and backward).
 ![DLL1](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/c97331b9-276d-4993-8b41-6119e6a8e53e)
-# Stacks
+## Stacks
   Stack is a linear data structure in which the element inserted last is the element to be deleted first. LIFO method(Last In First Out)
 
     operation run time complexity
@@ -102,7 +102,7 @@ Quick Note using Python programming language as a reference.
       - pop: O(1)
   
 ![stack](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/ad9f7fd7-20cd-4683-8419-e3e8db5b82c9)
-# queue
+## queue
   similar to a stack. A queue uses the FIFO method(First In First Out), by which the first element that is enqueued will be the first one to be dequeued.
     operation run time complexity
     
