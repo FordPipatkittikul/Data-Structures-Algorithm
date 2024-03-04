@@ -21,11 +21,8 @@
     What causes Space Complexity
     
       • Variables
-      
       • Data Structures
-      
       • Function Call
-      
       • Allocations
 ![Screenshot (46)](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/792770f3-572f-4683-b056-8331ea22f59b)
 
