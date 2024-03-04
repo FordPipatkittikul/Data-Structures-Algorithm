@@ -60,7 +60,6 @@ Quick Note using Python programming language as a reference.
     operation run time complexity
     
      - Insertion: O(1)
-     
      - Deletion: O(1)
 # self-defined DataStructures
 
@@ -70,11 +69,8 @@ Quick Note using Python programming language as a reference.
       operation run time complexity
       
         - prepend: O(1)
-        
         - append: O(1)
-        
         - lookup: O(n)
-        
         - insert: O(n)   
         - delete: O(n)
 ### singly linked list
