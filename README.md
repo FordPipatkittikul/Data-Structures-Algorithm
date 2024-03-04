@@ -41,11 +41,8 @@ Quick Note using Python programming language as a reference.
     operation run time complexity
     
       - Insertion : O(n)
-      
       - Deletion : O(n)
-      
       - accessing by index: O(1)
-      
       - Append : O(1)
 ## Hash Table or dictionary
   It is unordered data structure that stores pairs of key-value
