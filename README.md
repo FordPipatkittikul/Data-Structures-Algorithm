@@ -83,8 +83,7 @@ Quick Note using Python programming language as a reference.
         
         - lookup: O(n)
         
-        - insert: O(n)
-        
+        - insert: O(n)   
         - delete: O(n)
 ### singly linked list
     a linear data structure comprising of nodes chained together in a single direction. Each node contains a data member holding useful information, and a pointer to the next node. Can traverse forward
@@ -115,8 +114,8 @@ Quick Note using Python programming language as a reference.
       - peek Returns the first element of the queue: O(1)
 
 ![queue](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/d784d191-5ac8-4a45-93a6-34d86ab1feb8)
-# Tree
-# Graph
+## Tree
+## Graph
 
 
 
