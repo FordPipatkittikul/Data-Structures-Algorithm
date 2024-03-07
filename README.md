@@ -90,7 +90,9 @@ Quick Note using Python programming language as a reference.
       - peek Returns the first element of the queue: O(1)
 
 ![queue](https://github.com/FordPipatkittikul/DataStructures/assets/121902625/d784d191-5ac8-4a45-93a6-34d86ab1feb8)
+
 ## Tree
+
 ## Graph
 
 
